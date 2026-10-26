@@ -8,6 +8,16 @@ Legal Document Engine is a **local, demonstration-only application** that turns 
 
 The current MVP produces **fictional pre-litigation payment demand letters** (*przedsądowe wezwania do zapłaty*) from a predefined synthetic dataset. It is designed to demonstrate a controlled document-processing pipeline—not to generate production-ready legal correspondence or process real case files.
 
+## 🖥️ Application Preview
+
+![Data Quality Report](data-quality-report.png)
+
+
+![Local Privacy Gate](local-privacy-gate.png)
+
+
+![Generated DOCX Preview](generated-DOCX-preview.png)
+
 ## 🎯 Business Value & Use Case
 
 Repetitive legal-document workflows often begin with spreadsheets containing incomplete, inconsistent, or sensitive information. Simply connecting a language model to those records can amplify data-quality issues and unnecessarily expose identifying details.
